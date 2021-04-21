@@ -1,0 +1,136 @@
+{
+    "tasks": [
+        {
+            "name": "RuntimeBroker.exe",
+            "type": "recommended"
+        },
+        {
+            "name": "ctfmon.exe",
+            "type": "recommended"
+        },
+        {
+            "name": "conhost.exe",
+            "type": "recommended"
+        },
+        {
+            "name": "StartMenuExperienceHost.exe",
+            "type": "recommended"
+        },
+        {
+            "name": "explorer.exe",
+            "type": "recommended"
+        },
+        {
+            "name": "SystemSettings.exe",
+            "type": "recommended"
+        },
+        {
+            "name": "igfxEM.exe",
+            "type": "recommended"
+        },
+        {
+            "name": "TextInputHost.exe",
+            "type": "recommended"
+        },
+        {
+            "name": "svchost.exe",
+            "type": "recommended"
+        },
+        {
+            "name": "NVIDIA Share.exe",
+            "type": "recommended"
+        },
+        {
+            "name": "unsecapp.exe",
+            "type": "recommended"
+        },
+        {
+            "name": "SettingSyncHost.exe",
+            "type": "recommended"
+        },
+        {
+            "name": "dllhost.exe",
+            "type": "recommended"
+        },
+        {
+            "name": "nvcontainer.exe",
+            "type": "recommended"
+        },
+        {
+            "name": "nvsphelper64.exe",
+            "type": "recommended"
+        },
+        {
+            "name": "taskhostw.exe",
+            "type": "recommended"
+        },
+        {
+            "name": "powershell.exe",
+            "type": "recommended"
+        },
+        {
+            "name": "ShellExperienceHost.exe",
+            "type": "recommended"
+        },
+        {
+            "name": "UserOOBEBroker.exe",
+            "type": "recommended"
+        },
+        {
+            "name": "sihost.exe",
+            "type": "recommended"
+        },
+        {
+            "name": "CompPkgSrv.exe",
+            "type": "recommended"
+        },
+        {
+            "name": "cmd.exe",
+            "type": "recommended"
+        },
+        {
+            "name": "Taskmgr.exe",
+            "type": "recommended"
+        },
+        {
+            "name": "ApplicationFrameHost.exe",
+            "type": "recommended"
+        },
+        {
+            "name": "rundll32.exe",
+            "type": "recommended"
+        },
+        {
+            "name": "SearchProtocolHost.exe",
+            "type": "recommended"
+        },
+        {
+            "name": "NVIDIA Web Helper.exe",
+            "type": "recommended"
+        },
+        {
+            "name": "python.exe",
+            "type": "recommended"
+        },
+        {
+            "name": "py.exe",
+            "type": "recommended"
+        },
+        {
+            "name": "killbill.exe",
+            "type": "recommended"
+        },
+        {
+            "name": "flhotkey.exe",
+            "type": "recommended"
+        },
+        {
+            "name": "deskpins.exe",
+            "type": "recommended"
+        },
+        {
+            "name": "time.exe",
+            "type": "recommended"
+        }
+    ]
+}
